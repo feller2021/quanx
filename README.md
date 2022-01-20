@@ -18,3 +18,6 @@ https://github.com/liurenjie520/yxy-qx
 
 
 https://github.com/liurenjie520/QuantumultX-1
+
+
+https://github.com/liurenjie520/Quantumult-X
