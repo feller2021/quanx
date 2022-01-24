@@ -6,6 +6,7 @@ https://clash.back2me.cn/
 https://acl4ssr-sub.github.io/
 https://id9.cc/
 https://sub.xeton.dev/
+https://sub.tsutsu.cc/
 
 https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumultX_profile.conf
 
