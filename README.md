@@ -1,4 +1,4 @@
-# qx
+# qx 现用qx3
 
 
 订阅转换：https://bianyuan.xyz/
