@@ -51,3 +51,5 @@ http://127.0.0.1:9999
 注意配置 HTTP Backend 的地址为 0.0.0.0 端口为 9999
 配置完成后确保打开了 HTTP Backend 的开关
 然后 全部更新 > 重启代理
+
+# http://boxjs.com
