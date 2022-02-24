@@ -1,7 +1,7 @@
 # qx 现用qx3
 
 
-订阅转换：https://bianyuan.xyz/
+订阅转换1：https://bianyuan.xyz/
 https://clash.back2me.cn/
 https://acl4ssr-sub.github.io/
 https://id9.cc/
