@@ -19,6 +19,10 @@ https://github.com/Orz-3/QuantumultX/blob/master/Orz-3.conf
 
 
 
+https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/QuanX.conf
+
+
+
 https://github.com/liurenjie520/sub
 
 
