@@ -57,3 +57,6 @@ http://127.0.0.1:9999
 然后 全部更新 > 重启代理
 
 # http://boxjs.com
+
+
+https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js
