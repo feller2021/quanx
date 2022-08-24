@@ -60,3 +60,14 @@ http://127.0.0.1:9999
 
 
 https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js
+
+### QuantumultX懒人配置
+
+- ***[Orz-3]推荐(https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf)***
+- ***[KOP-XIAO](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)***
+- ***[DivineEngine](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf)***
+- ***[Cuttlefish]推荐(https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Profile/QuantumultX.conf)***
+- ***[Tartarus2014]推荐(https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/QuanX.conf)***
+
+
+#### 感谢各位大佬的规则分享以及辛勤维护！（适合自己的才是最好的）
