@@ -71,3 +71,5 @@ https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js
 
 
 #### 感谢各位大佬的规则分享以及辛勤维护！（适合自己的才是最好的）
+#### https://github.com/app2smile/rules
+#### https://github.com/ddgksf2013/Cuttlefish
