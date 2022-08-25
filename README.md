@@ -3,6 +3,8 @@
 #### apple解锁https://raw.githubusercontent.com/VirgilClyne/iRingo/main/box/iRingo.boxjs.json
 #### https://raw.githubusercontent.com/Sunert/Script/master/Task/sunert.boxjs.json
 #### https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
+#### https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
+#### https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
 
 
 订阅转换1：https://bianyuan.xyz/
