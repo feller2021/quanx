@@ -1,6 +1,6 @@
 # qx 现用qx3
 
-
+#### apple解锁https://raw.githubusercontent.com/VirgilClyne/iRingo/main/box/iRingo.boxjs.json
 订阅转换1：https://bianyuan.xyz/
 https://clash.back2me.cn/
 https://acl4ssr-sub.github.io/
