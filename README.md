@@ -1,10 +1,15 @@
 # qx 现用qx3
 
 #### apple解锁https://raw.githubusercontent.com/VirgilClyne/iRingo/main/box/iRingo.boxjs.json
+#### 无订阅任务
 #### https://raw.githubusercontent.com/Sunert/Script/master/Task/sunert.boxjs.json
+#### 订阅任务https://raw.githubusercontent.com/Sunert/Script/master/Task/Sunert_Task.json
 #### https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
+#### 订阅任务https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/profiles/QuantumultX/QuantumultX.task.json
 #### https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
+#### 无订阅任务
 #### https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
+#### 无订阅任务
 
 
 订阅转换1：https://bianyuan.xyz/
