@@ -11,7 +11,7 @@
 #### https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
 #### 无订阅任务
 
-#### https://raw.githubusercontent.com/laoxinH/MyScript/main/boxjs/laoxin.boxjs.json
+
 
 订阅转换1：https://bianyuan.xyz/
 https://clash.back2me.cn/
