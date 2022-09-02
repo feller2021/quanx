@@ -12,6 +12,7 @@
 #### 无订阅任务
 
 #### 双语字幕https://github.com/DualSubs/DualSubs
+#### DualSubs https://raw.githubusercontent.com/DualSubs/DualSubs/main/box/DualSubs.boxjs.json
 
 
 订阅转换1：https://bianyuan.xyz/
