@@ -11,6 +11,7 @@
 #### https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
 #### 无订阅任务
 
+#### 双语字幕https://github.com/DualSubs/DualSubs
 
 
 订阅转换1：https://bianyuan.xyz/
