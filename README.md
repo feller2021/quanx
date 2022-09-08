@@ -11,8 +11,10 @@
 #### https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
 #### 无订阅任务
 
-#### 双语字幕https://github.com/DualSubs/DualSubs
-#### DualSubs https://raw.githubusercontent.com/DualSubs/DualSubs/main/box/DualSubs.boxjs.json
+#### 双语字幕 https://github.com/DualSubs/DualSubs
+#### DualSubs双语字幕订阅 https://raw.githubusercontent.com/DualSubs/DualSubs/main/box/DualSubs.boxjs.json
+#### 一键订阅 http://boxjs.com/#/sub/add/https://github.com/DualSubs/DualSubs/blob/main/box/DualSubs.boxjs.json?raw=true
+#### 重写 https://raw.githubusercontent.com/DualSubs/DualSubs/main/qxrewrite/DualSubs.YouTube.qxrewrite
 
 
 订阅转换1：https://bianyuan.xyz/
