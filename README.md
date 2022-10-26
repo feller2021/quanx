@@ -1,4 +1,4 @@
-# qx 现用qx3
+# qx 现用qxtest3.conf
 
 #### apple解锁https://raw.githubusercontent.com/VirgilClyne/iRingo/main/box/iRingo.boxjs.json
 #### 无订阅任务
